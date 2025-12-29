@@ -9,7 +9,7 @@ that demonstrates layout planning, user flow, and design.
 ---
 
 ## Live Web Site (Wix)
-🔗 https://yjohnso3.wixsite.com/my-site-12?rc=test-site
+https://yjohnso3.wixsite.com/my-site-12
 
 This site showcases the final web based design, including page layout,
 navigation structure, and content presentation.
